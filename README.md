@@ -1,52 +1,34 @@
-# python-projects
-A collection of Python projects reflecting my ability to bridge project management strategy with hands-on technical execution, from automation scripts to data analysis tasks that enhance decision-making and delivery efficiency.
-# Python Projects
+# Python Projects – Applied to Project Management
 
-This repository showcases practical Python applications that reflect my ability to **bridge business strategy with technical execution**.  
-Each project demonstrates how a Project Manager with a technical mindset can use Python to improve workflows, visualize performance, and make data-driven decisions.
+This repository demonstrates how a **Technical Project Manager** applies Python to enhance delivery efficiency, automate data checks, and drive decision-making accuracy.
 
-While not all projects are complex algorithms, they represent **real, applied skills** used to support process improvement, reporting automation, and operations analysis — areas where many traditional PMs rely solely on technical teams.
+Each script transforms a fundamental programming concept into a practical **project management use case** — from tracking metrics and budgets to simulating risk and performance models.  
+It reflects my ability to understand both the technical and analytical sides of modern project delivery.
 
----
 
-## Purpose
+# Python Projects for Technical Project Management
 
-As a **Technical Project Manager**, I believe in leading with both **clarity and capability** — understanding the technology behind the deliverables I manage.  
-These Python scripts and notebooks serve as proof of that principle: small, focused tools designed to optimize performance, automate manual tasks, and translate business needs into repeatable, data-backed results.
+This collection of Python scripts demonstrates how I apply coding logic to streamline project workflows, automate analysis, and support decision-making as a Technical Project Manager.  
+Each script represents a small, real-world use case that blends Agile delivery insight with data-driven execution.
 
----
+| File | PM Use Case | Technical Function | Outcome |
+|------|--------------|-------------------|----------|
+| **Performance Tracker.py – Performance Tracker** | Automates student or team performance evaluation during sprints or training programs. | Control flow, input validation, conditional logic | Enables quick reporting on pass/fail metrics and productivity outcomes. |
+| **Comparative KPI Checker.py – Comparative KPI Checker** | Compares two key performance indicators or metrics from different reporting periods. | Relational and logical operations | Helps PMs identify improvement trends or areas needing escalation. |
+| **Data Input Parser.py – Data Input Parser** | Validates and decomposes structured identifiers (e.g., task codes, IDs). | String and integer manipulation | Reduces manual entry errors and ensures data cleanliness in reports. |
+| **Budget Accrual Simulator.py – Budget Accrual Simulator** | Models incremental savings or funding milestones for project budgets. | While loops, cumulative logic | Tracks goal completion progress and budget thresholds dynamically. |
+| **Risk Prioritization Model.py – Risk Prioritization Model** | Determines smallest and second-smallest values (e.g., risk scores). | Nested conditionals | Assists PMs in ranking low-impact vs. medium-impact risks. |
+| **Workload Allocator.py – Workload Allocator** | Categorizes resource assignments or workload distribution. | Iteration, list operations | Helps maintain balanced task loads and fair sprint planning. |
+| **Issue Escalation Tracker.py – Issue Escalation Tracker** | Records issue severities and categorizes escalation tiers. | Loop and counter logic | Facilitates tracking of blocker frequencies across sprints. |
+| **Metrics Normalizer.py – Metrics Normalizer** | Cleans and normalizes collected numeric data for reporting. | Range checks and input validation | Ensures KPI data integrity for dashboards. |
+| **Quality Compliance Validator.py – Quality Compliance Validator** | Validates quality assurance test results against acceptance thresholds. | Nested conditionals, validation logic | Supports data-driven Go/No-Go deployment decisions. |
+| **Sprint Summary Generator.py – Sprint Summary Generator** | Aggregates performance data and outputs summary reports. | Loop, condition, accumulation | Provides quick end-of-sprint summaries for retrospectives. |
 
-## Project Categories
+## Technical Skills Applied
+- **Programming:** Python (loops, conditionals, data validation)
+- **Data Handling:** Input verification, aggregation, numeric analysis
+- **PM Integration:** Risk modeling, KPI tracking, budget simulation
+- **Concepts:** Continuous improvement, automation, Agile reporting
 
-| Category | Description | Example Outputs |
-|-----------|--------------|-----------------|
-| **Data Cleaning & Transformation** | Preparing datasets for analysis and reporting using pandas and automation scripts. | Duplicate removal, type standardization, KPI tables |
-| **Automation & Efficiency** | Reducing manual steps in repetitive workflows through lightweight automation. | CSV cleaning, report generation, file organization |
-| **Analytics & Visualization** | Turning project or operational data into decision-ready insights. | Trend charts, summary dashboards, anomaly detection |
-| **Integration Demos** | Exploring data interaction between tools and systems (Oracle, APIs, Excel). | Query pull scripts, batch data syncs |
 
----
-
-## Technical Focus
-
-- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib  
-- **Domains:** Data preparation, process automation, performance tracking  
-- **Tools:** Jupyter Notebook, Oracle SQL Developer, VS Code  
-- **Concepts Applied:** Agile iteration, continuous improvement, KPI monitoring, root cause analysis  
-
----
-
-## Value for Organizations
-
-Each script represents a micro-initiative aligned with real business value:
-- **Increased efficiency:** Automating repetitive PMO or operations reporting tasks  
-- **Improved visibility:** Generating accurate, timely data for executive dashboards  
-- **Reduced errors:** Standardizing data collection and transformation processes  
-- **Empowered teams:** Enabling non-technical collaborators to work with cleaner, structured data  
-
-In environments where most project managers stop at stakeholder coordination, I extend one step further — **understanding, automating, and optimizing the technical backbone** of delivery.
-
----
-
-## Repository Structure
 
